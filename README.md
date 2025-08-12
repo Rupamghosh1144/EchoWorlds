@@ -1,6 +1,10 @@
 📖 EchoWords – Blogging Platform
 EchoWords is a responsive and modern blogging platform that allows users to share their thoughts, stories, and experiences online. Built with a sleek full dark-mode design using Tailwind CSS, it ensures a distraction-free and visually appealing reading and writing experience.
 
+
+****Main Focus: Backend Technology****
+
+
 ✨ Key Features
 🖊 Create, Edit & Delete Blogs – Easily manage blog posts with a simple editor.
 
@@ -15,11 +19,11 @@ EchoWords is a responsive and modern blogging platform that allows users to shar
 🖱 Interactive UI Elements – Hover effects, clickable icons, and smooth navigation.
 
 🛠 Tech Stack
-Frontend: HTML5, Tailwind CSS, JavaScript
+Frontend: EJS, Tailwind CSS, JavaScript
 
-Backend: Node.js, Express.js (if used)
+Backend: Node.js, Express.js
 
-Database: MongoDB (if used)
+Database: MongoDB
 
 Tools & Version Control: Git, GitHub
 
